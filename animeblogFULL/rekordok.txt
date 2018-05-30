@@ -1,0 +1,30 @@
+INSERT INTO `anime`(`name`, `mainactor`, `year`, `rate`) VALUES
+	('One Piece', 'Monkey D. Luffy', '1997', '8.4'),
+	('Naruto', 'Naruto', '1999', '8.3'),
+	('Kimi no Na wa', 'Mitsuha Miyamizu', '2016', '9.3'),
+	('Fullmetal Alchemist: Brotherhood', 'Edward Elric', '2011', '9.2'),
+	('Gintama', 'Gintama', '2006', '8.0'),
+    ('Steins Gate', 'Rintarou Okabe', '2011', '9.1'),
+    ('Hunter x Hunter', 'Gon', '2011', '9.1'),
+    ('Cowboy Bebop', 'Spike Speagel', '1998', '8.8'),
+    ('Death Note', 'Yagami Light', '2006', '8.7'),
+    ('Sword Art Online', 'Kirigaya Kazuto', '2012', '7.7'),
+    ('Angel Beats!', 'Yuzuru Otonashi', '2010', '8.3'),
+    ('Tokyo Ghoul', 'Kaneki Ken', '2014', '8.0'),
+    ('No Game No Life', 'Sora', '2014', '8.4'),
+    ('Elven Lied', 'Lucy', '2004', '7.8'),
+    ('Bleach', 'Kurosaki Ichigo', '2004', '7.9'),
+    ('One Punch Man', 'Saitama', '2015', '8.8'),
+    ('Fairy Tail', 'Natsu', '2009', '8.2'),
+    ('Soul Eater', 'Death the Kid', '2008', '8.1'),
+    ('Clannad', 'Tomoya Okazaki', '2007', '8.3'),
+    ('Noragami', 'Yato', '2014', '8.2'),
+    ('Akame ga Kill!', 'Akame', '2014', '7.8'),
+    ('Log Horizon', 'Shiroe', '2013', '8.1'),
+    ('Samurai Champloo', 'Mugen', '2004', '8.5'),
+    ('Dragon Ball Z', 'Son Gokuu', '1989', '8.3'),
+    ('Zankyou no Terror', 'Twelwe', '2014', '8.2')
+
+INSERT INTO post (`title`, `text`, `image`, `posted`) VALUES
+	('One Piece Haki', 'A Haki az animében használt erõ, nem mindenkinek van.', '1645295.jpg', '2017-06-14'),
+	('Lost Ark', 'Hamarosan megjelenõ amimén alapuló játék.', '636058156932886790.jpg', '2017-06-17')
